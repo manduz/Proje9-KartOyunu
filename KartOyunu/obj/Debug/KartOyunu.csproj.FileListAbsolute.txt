@@ -1,0 +1,10 @@
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\obj\Debug\KartOyunu.Form1.resources
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\obj\Debug\KartOyunu.Properties.Resources.resources
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\obj\Debug\KartOyunu.exe
+C:\EmekWebRepo\C#\Proje9-KartOyunu\KartOyunu\obj\Debug\KartOyunu.pdb
